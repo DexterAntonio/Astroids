@@ -4,7 +4,7 @@ import java.awt.event.*;
 /**
  * Write a description of class GameFrame here.
  * 
- * @author Most of this code was taken from Lab F, and Dexter Antonio  
+ * @Author Dexter Antonio  
  * @version May 12, 2013 
  */
 public class GameFrame implements ActionListener {
