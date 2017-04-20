@@ -1,7 +1,7 @@
 PROJECT TITLE: Astroids for Java
 PURPOSE OF PROJECT: To demonstrate my knowledge of computer science 
 VERSION or DATE: Spring 2013 
-HOW TO START THIS PROJECT: Just compile and run 
+HOW TO START THIS PROJECT: Compile all java files. run AstroidGameTester . 
 AUTHORS: Dexter Antonio
 USER INSTRUCTIONS:
 This game mimics the game Asteroids. The point of the game is to 
