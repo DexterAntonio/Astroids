@@ -1,16 +1,27 @@
 PROJECT TITLE: Astroids for Java
+
 PURPOSE OF PROJECT: To demonstrate my knowledge of computer science 
+
 VERSION or DATE: Spring 2013 
+
 HOW TO START THIS PROJECT: Compile all java files. run AstroidGameTester . 
+
 More detailed instructions: 
+
 download all files and put them in a folder 
+
 navigate to that folder with terminal 
-type: javac *.java
-type: java AstroidGameTester 
+
+type: <code>javac *.java</code>
+
+type: <code>java AstroidGameTester</code>
+
 play game 
 
 AUTHORS: Dexter Antonio
+
 USER INSTRUCTIONS:
+
 This game mimics the game Asteroids. The point of the game is to 
 score as many points as possible by shooting asteroids with your 
 spaceship. The spaceship will explode if it collides with an asteroid. 
@@ -22,6 +33,7 @@ destroyed by an asteroid pressing the R key will reset your spaceship.
 If you travel off one side of the screen you will come back on the other side.
 
 Controls:
+
 Use forward arrow key to fire thrusters which move the spaceship forward
 Use left arrow key to rotate the spaceship counter clockwise
 use right arrow key to rotate the spaceship clockwise
